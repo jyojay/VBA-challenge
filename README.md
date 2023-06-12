@@ -4,7 +4,7 @@ This submission consists of the below two files:
 2) VBA-Challenge Screen shots in a word document
 
 Assumption 
-The test data and actual data for this challenge was already sorted on <ticker> and <date> within each <ticker>.
+The test data and actual data for this challenge was already sorted on ticker and date within each ticker.
 It is assumed that this code will only be run on data which is already sorted as above.
   
 Acknowledgements
